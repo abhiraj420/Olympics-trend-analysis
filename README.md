@@ -10,6 +10,7 @@ The dashboard provides an interactive and comprehensive view of various aspects 
 * Excel/CSV – For data preprocessing (if applicable) 
 * DAX (Data Analysis Expressions) – For custom calculations and measures 
 * Power Query – For data transformation and cleaning 
+* Tooltips – To provide additional contextual information when hovering over visuals
 
 # Key Features & Insights Medal Analysis: 
 * Breakdown of medals won by different countries and athletes over time.

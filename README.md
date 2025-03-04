@@ -21,4 +21,4 @@ The dashboard provides an interactive and comprehensive view of various aspects 
 
 # Dashboard Snapshots
 
-# Access the project files and data source from Google Drive: https://drive.google.com/drive/folders/1HcDCLDBb9El3ZQ_9U87af6_MFiEVtjWQ?usp=drive_link
+# Access the project files and data source from Google Drive: https://drive.google.com/drive/folders/1HcDCLDBb9El3ZQ_9U87af6_MFiEVtjWQ?usp=sharing
